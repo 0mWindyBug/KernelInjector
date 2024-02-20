@@ -1,0 +1,22 @@
+﻿  Building 'Kernelnjector' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\Kernelnjector.inf
+  Stamping [Version] section with DriverVer=02/20/2024,20.57.48.346
+C:\Users\dorge\source\repos\Kernelnjector\Kernelnjector\Kernelnjector.inf(28-28): warning 2083: Section [standard.ntamd64] not referenced or used.
+  Kernelnjector.vcxproj -> C:\Users\dorge\source\repos\Kernelnjector\x64\Release\Kernelnjector.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dorge\source\repos\Kernelnjector\x64\Release\Kernelnjector.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\dorge\source\repos\Kernelnjector\x64\Release\Kernelnjector\kernelnjector.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dorge\source\repos\Kernelnjector\x64\Release\Kernelnjector\kernelnjector.cat
+  
