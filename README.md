@@ -1,6 +1,6 @@
 # KernelInjector
 PoC kernel to usermode dll injection 
-Tested on win
+Tested on Windows 10 22H2
 
 # Usage 
 InjectorController.exe <pid> 
