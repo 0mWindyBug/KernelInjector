@@ -4,7 +4,8 @@ PoC kernel to usermode dll injection
 Tested on Windows 10 22H2
 
 # Usage 
-InjectorController.exe <pid> 
+InjectorController.exe <target_pid>
+
 the shellcode is injecting "C:\\hooking.dll" so make sure to rename your dll or modify the shellcode accordingly 
 
 see load_dll_shellcode.asm provided source file 
